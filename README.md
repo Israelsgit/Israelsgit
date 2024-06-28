@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Yemi and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Yemi and I'm a Developer, from Nigeria</h2>
 
 ###
 #### Tools and Technologies
