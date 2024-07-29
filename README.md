@@ -1,47 +1,44 @@
 
-<h2 align="left">Hi 👋! My name is Yemi and I'm a Developer, from Nigeria</h2>
+<h1 align="left">Hi there, I'm Israel 👋</h2>
+
+## 🚀 About Me
+I'm a passionate software developer with experience in Web Development. I enjoy working on Fintech projects, and I'm always eager to learn new things and take on challenges.
+
+## 🛠  Tools and Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=c,figma,react,vue,html,css,nodejs,docker,js,nextjs,r,regex,tailwind,vercel,git,pycharm,vue,flask&perline=20)](https://skillicons.dev)
 
 ###
-#### Tools and Technologies
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Israelsgit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Israelsgit&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&theme=github-compact&custom_title=Oluwayemi's%20Contributions%20%20&hide_border=false)](https://github.com/israelsgit/github-readme-activity-graph" />
+</div>
+
+## 🎖  My GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=israelsgit&theme=gotham&show_icons=true&hide_border=false&count_private=true"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israelsgit&theme=gotham&hide_border=false"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelsgit&theme=gotham&show_icons=true&hide_border=false&layout=compact"  />
 </div>
 
 ###
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+###  🏆 Trophies
+<div align="left">
+  <img src="https://github-trophies.vercel.app/?username=israelsgit&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=grow_out_in" />
 </div>
 
 ###
+<div align="left">
+  <img src="https://visitcount.itsvg.in/api?id=israelsgit&icon=8&color=0)](https://visitcount.itsvg.in" />
+</div>
+
+
 
 <br clear="both">
 
