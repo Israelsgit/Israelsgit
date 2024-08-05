@@ -2,7 +2,9 @@
 <h1 align="left">Hi there, I'm Israel 👋</h2>
 
 ## 🚀 About Me
-I'm a passionate software developer with experience in Web Development. I enjoy working on Fintech projects, and I'm always eager to learn new things and take on challenges.
+None of that bs AI boilerplate "about me",
+I just want to write innovative programs and learn about the unknown in the world of technology
+Oh, I also have an eye for detecting the most annoying bugs😂 
 
 ## 🛠  Tools and Technologies
 
