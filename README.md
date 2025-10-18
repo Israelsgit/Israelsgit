@@ -8,7 +8,7 @@ Oh, I also have an eye for detecting the most annoying bugs!
 
 ## 🛠  Tools and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=c,figma,react,firebase,html,css,nodejs,js,nextjs,selenium,r,regex,tailwind,vercel,git,pycharm&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,figma,react,firebase,nodejs,js,nextjs,selenium,tailwind,vercel,git&perline=20)](https://skillicons.dev)
 
 ###
 <div align="left">
