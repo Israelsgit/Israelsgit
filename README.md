@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi there, I'm Israel 👋</h2>
 
-## 🚀 About Me
+##  About Me
 None of that bs AI boilerplate "about me",
 I just want to write innovative programs and learn about the unknown in the world of technology
 Oh, I also have an eye for detecting the most annoying bugs!
