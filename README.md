@@ -1,14 +1,11 @@
 
-<h1 align="left">Hi there, I'm Israel 👋</h2>
+<h1 align="left">Hi there, I'm Oluwayemi 👋</h2>
 
 ##  About Me
-None of that bs AI boilerplate "about me",
-I just want to write innovative programs and learn about the unknown in the world of technology
-Oh, I also have an eye for detecting the most annoying bugs!
-
+Omo...
 ## 🛠  Tools and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=c,figma,react,firebase,nodejs,js,nextjs,selenium,jest,tailwind,vercel,git&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,figma,react,firebase,nodejs,js,nextjs,selenium,jest,tailwind,vercel,java,spring,git&perline=20)](https://skillicons.dev)
 
 ###
 <div align="left">
